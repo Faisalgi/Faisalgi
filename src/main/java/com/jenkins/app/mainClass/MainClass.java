@@ -12,6 +12,7 @@ public class MainClass {
 		System.out.println("Connection created :: ALL GOOD");
 		
 		log.debug("Connectiion Created successfully");
+		
 	}
 	
 }

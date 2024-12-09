@@ -11,7 +11,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class SpringJenkins1ApplicationTests {
 	
 	public static Logger log=LoggerFactory.getLogger(SpringJenkins1ApplicationTests.class);
-
+ 
 	@Test
 	void contextLoads() {
 		log.info("Test Case Executed ");
